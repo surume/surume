@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<a href="https://github.com/surume/surume/">
+  <img src="https://komarev.com/ghpvc/?username=surume" alt="surume" />
+</a>
 <!--
 **surume/surume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
