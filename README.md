@@ -1,7 +1,10 @@
-### Hi there 👋
-<a href="https://github.com/surume/surume/">
-  <img src="https://komarev.com/ghpvc/?username=surume" alt="surume" />
+<a href="https://github.com/surume">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=surume&count_private=true&show_icons=true" />
 </a>
+<a href="https://github.com/surume">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surume&layout=compact&hide=java,css,html" />
+</a>
+
 <!--
 **surume/surume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
