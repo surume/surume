@@ -1,7 +1,7 @@
 
 <a href="https://github.com/surume">
 <!-- ![Metrics](https://metrics.lecoq.io/surume?template=classic&config.timezone=Asia%2FTokyo) -->
-  <img align="left" height="300px" src="https://metrics.lecoq.io/surume?template=classic&config.timezone=Asia%2FTokyo" />
+  <img align="left" height="320px" src="https://metrics.lecoq.io/surume?template=classic&config.timezone=Asia%2FTokyo" />
 </a>
 
 <a href="https://github.com/surume">
