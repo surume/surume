@@ -5,10 +5,10 @@
 </a>
 
 <a href="https://github.com/surume">
-  <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api?username=surume&count_private=true&show_icons=true&theme=apprentice" />
+  <img align="left" height="140px" src="https://github-readme-stats.vercel.app/api?username=surume&count_private=true&show_icons=true&theme=apprentice" />
 </a>
 <a href="https://github.com/surume">
-  <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surume&layout=compact&hide=java,css,html&theme=apprentice" />
+  <img align="left" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surume&layout=compact&hide=java,css,html&theme=apprentice" />
 </a>
 <!--
 **surume/surume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
