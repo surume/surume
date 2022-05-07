@@ -8,7 +8,7 @@
   <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=surume&count_private=true&show_icons=true&theme=codeSTACKr" />
 </a>
 <a href="https://github.com/surume">
-  <img align="left" height="160px" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surume&layout=compact&hide=java,css,html&theme=codeSTACKr" />
+  <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surume&layout=compact&hide=java,css,html&theme=codeSTACKr" />
 </a>
 <!--
 **surume/surume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
