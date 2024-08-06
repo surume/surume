@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/surume/surume/main/profile-summary-card-output/nord_dark/4-productive-time.svg)
-```
-
-    
